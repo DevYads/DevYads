@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DevYads
 - 👀 I’m interested in GenAI.
-- 🌱 I’ve crush none other than Python.
 - 💞️ I’m looking to collaborate on GenAI apps and backend developments.
 - 📫 How to reach me: yadvendragarg123@gmail.com
 
